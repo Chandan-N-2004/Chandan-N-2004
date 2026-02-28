@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hey there! I'm Chandan N</h1>
 
-<h2 align="center"><b>Full Stack Developer</b></h2>
+<!-- <h2 align="center"><b>Full Stack Developer</b></h2> -->
 
 ## Let's explore more about me..!
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
