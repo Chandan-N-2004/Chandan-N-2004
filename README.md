@@ -78,7 +78,7 @@
 
 ## Let's Connect
 <div align="center">
-<a href="https://github.com/Chandan-N-2004">
+<a href="https://github.com/chandan-me">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/chandan-niranjan/">
