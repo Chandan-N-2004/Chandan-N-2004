@@ -13,18 +13,6 @@
 - Advanced backend architectures
 - AI & ML model implementation
 - Performance optimization in web applications
-  
-
-## Technical Expertise
-
-### Programming & Databases
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python" height="45"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
-<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
-<img src="https://skillicons.dev/icons?i=js" height="45"/>  
-</p>
-
 
 ### Full Stack Development
 <p align="center">
@@ -32,6 +20,10 @@
 <img src="https://skillicons.dev/icons?i=flask" height="45"/>
 <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
 <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="45"/>
+<img src="https://skillicons.dev/icons?i=js" height="45"/>  
 <img src="https://skillicons.dev/icons?i=html" height="45"/>
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
 <img src="https://skillicons.dev/icons?i=django" height="45"/>
