@@ -14,7 +14,7 @@
 - AI & ML model implementation
 - Performance optimization in web applications
 
-### Full Stack Development
+### Full Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react" height="45"/>
 <img src="https://skillicons.dev/icons?i=nodejs" height="45"/>
