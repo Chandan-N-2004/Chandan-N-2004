@@ -34,6 +34,8 @@
 <img src="https://skillicons.dev/icons?i=fastapi" height="45"/>
 <img src="https://skillicons.dev/icons?i=html" height="45"/>
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
+<img src="https://skillicons.dev/icons?i=django" height="45"/>
+
 </p>
 
 
@@ -52,7 +54,6 @@
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
@@ -66,7 +67,6 @@
 <img src="https://skillicons.dev/icons?i=aws" height="45"/>
 <img src="https://skillicons.dev/icons?i=azure" height="45"/>
 <img src="https://skillicons.dev/icons?i=vercel" height="45"/>
-<img src="https://skillicons.dev/icons?i=gcp" height="45"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
 <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white"/>
