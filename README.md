@@ -13,6 +13,18 @@
 - Advanced backend architectures
 - AI & ML model implementation
 - Performance optimization in web applications
+<br/>
+<hr>
+
+### AI & Machine Learning
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Reinforcement_Learning-6A5ACD?style=for-the-badge"/>
+</p>
+
 
 ### Full Stack
 <p align="center">
@@ -28,16 +40,6 @@
 <img src="https://skillicons.dev/icons?i=css" height="45"/>
 <img src="https://skillicons.dev/icons?i=django" height="45"/>
 
-</p>
-
-
-### AI & Machine Learning
-<p align="center">
-<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>
-<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Reinforcement_Learning-6A5ACD?style=for-the-badge"/>
 </p>
 
 
